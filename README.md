@@ -1,4 +1,4 @@
-# Code for "Phase retrieval for Fourier Ptychography under varying amount of measurements"
+# Code for paper "Phase retrieval for Fourier Ptychography under varying amount of measurements"
 
 Paper citation: Boominathan, Lokesh et al. “Phase retrieval for Fourier Ptychography under varying amount of measurements.” British Machine Vision Conference (2018).
 
